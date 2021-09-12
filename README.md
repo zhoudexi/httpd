@@ -1,4 +1,4 @@
-# HTTPD
+# Httpd
 
 简易web服务器（基于epoll+多线程实现）
 
